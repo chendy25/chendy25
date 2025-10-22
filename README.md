@@ -6,9 +6,6 @@
 - 😄 Pronouns: None
 - ⚡ Fun fact: None
 
-![Visitor Count](https://profile-counter.glitch.me/chendy25/count.svg)
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chendy25)](https://github.com/chendy25/github-readme-stats)
 
 <!---
