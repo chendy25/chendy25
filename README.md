@@ -1,7 +1,7 @@
-# 👋 Hi, I’m @Zackaria-yang
+# 👋 Hi, I’m @Dongyang Chen 
 - 👀 I am an amateur computer science enthusiast.
-- 🌱 I’m currently learning image process based on deep learning! I am a big fan of it!
-- 💞️ I am a back-end network programming learner with a passion for developing efficient network applications.
+- 🌱 I’m currently learning ...
+- 💞️ I am a ...
 - 📫 I'm also a fan of open-source culture like almost everyone here.
 - 😄 Pronouns: None
 - ⚡ Fun fact: None
