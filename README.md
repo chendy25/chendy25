@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @Dongyang Chen 
-- 👀 I am an amateur computer science enthusiast.
+- 👀 I am an computer science enthusiast.
 - 🌱 I’m currently learning ...
 - 💞️ I am a ...
 - 📫 I'm also a fan of open-source culture like almost everyone here.
