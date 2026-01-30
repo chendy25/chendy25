@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @Dongyang Chen 
 - 👀 I am a first-year master's student in computer science at Tsinghua University.
-- 🌱 I’m currently learning ...
+- 🌱 I am currently very interested in multimodal large models and agents, such as reasoning based on RL.
 - 💞️ I am a ...
 - 📫 I'm also a fan of open-source culture like almost everyone here.
 - 😄 Pronouns: None
